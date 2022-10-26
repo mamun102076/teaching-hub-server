@@ -1,0 +1,15 @@
+[
+    {
+      "id": "11",
+      "category_id": "01",
+      "name": "Javascript",
+      "title": "JavaScript from Beginner to Expert",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
+      "details": "This course if for absolute beginners, and it is an introduction to the major components of javascript. By learning the bigger things in Javascript, you will be able to know how to put the remaining pieces together and will be able to get into advanced courses more prepared.At the end of this course, you will NOT become an expert and nor will you in any other course. To become an expert in Javascript or any other programming language you need many hours of practice and experience; more like years of practice and experience.",
+      "author": {
+        "name": "Mosh Hamedani",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://img-c.udemycdn.com/user/200_H/712832_5e8d_3.jpg"
+      }
+    }
+]

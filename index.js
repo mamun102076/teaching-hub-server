@@ -7,6 +7,8 @@ app.use(cors())
 
 const category = require('./data/course-categories.json')
 
+const categorieDetail = require('./Data/course-details.json')
+
 app.get('/', (req, res) => {
     res.send('course API runnung')
 })
@@ -18,7 +20,7 @@ app.get('/categories', (req, res) => {
 app.get('/categories/:id', (req, res) => {
     console.log(req.params.id)
     const id = req.params.id
-    const slectedCategory = category.find(c => c._id === id)
+    const slectedCategory = categorieDetail.find(c => c.category_id === id)
     res.send(slectedCategory)
 })
 
