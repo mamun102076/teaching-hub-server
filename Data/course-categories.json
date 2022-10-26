@@ -1,26 +1,32 @@
 [
     {
       "id": "01",
-      "name": "Javascript"
+      "name": "Javascript",
+      "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"
     },
     {
       "id": "02",
-      "name": "Python"
+      "name": "Python",
+      "img" : "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/9d2e8896750899.5eb54f3381452.png"
     },
     {
       "id": "03",
-      "name": "Data Structures"
+      "name": "C",
+      "img" : "https://i.pinimg.com/736x/71/69/fc/7169fc2c72f5c0b44ac30c9819e147b0.jpg"
     },
     {
       "id": "04",
-      "name": "Algorithms "
+      "name": "TypeScript",
+      "img" : "https://wallpaperaccess.com/full/7990038.png"
     },
     {
       "id": "05",
-      "name": "Object Oriented Programming"
+      "name": "Java",
+      "img" : "https://cloudemployee.co.uk//media/1222236/banner_javadev_jan2022-01.png"
     },
     {
       "id": "06",
-      "name": "Operating Systems"
+      "name": "HTML",
+      "img" : "https://embed-ssl.wistia.com/deliveries/f701e0f10e3c06b451ac684817d1270cf9dfe11c.jpg"
     }
   ]
