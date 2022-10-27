@@ -11,5 +11,70 @@
         "published_date": "2022-08-24 17:27:34",
         "img": "https://img-c.udemycdn.com/user/200_H/712832_5e8d_3.jpg"
       }
+    },
+    {
+      "id": "22",
+      "category_id": "02",
+      "name": "Python",
+      "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+      "image_url": "https://i.ytimg.com/vi/WvhQhj4n6b8/maxresdefault.jpg",
+      "details": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python.The course is taught by the lead instructor at the App Brewery, London's best in-person programming Bootcamp.The course has been updated to be 2022 ready and you'll be learning the latest tools and technologies used at large companies such as Apple, Google and Netflix.This course doesn't cut any corners, there are beautiful animated explanation videos and tens of real-world projects which you will get to build. e.g. Tinder auto swiper, Snake game, Blog Website, LinkedIn Auto Submit Job Application",
+      "author": {
+        "name": "David K.",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://img-b.udemycdn.com/user/200_H/26547450_0400_2.jpg"
+      }
+    },
+    {
+      "id": "33",
+      "category_id": "03",
+      "name": "C",
+      "title": "C Programming For Beginners - Master the C Language",
+      "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+      "details": "Have you never programmed a computer before, and think or have been told that C is a good programming language to get started with.  It is!Maybe you have some experience with other programming languages, but want to learn C.  It's a great language to add to your resume!Or perhaps you are stuck in a low paying programming job, and want to move up to a better, more senior position.  Learning C can help you!The fact is, learning how to program in C is not only an excellent programming language to get started with, but it will also make you a better programming in other computer languages!By the end of this course, you will understand the fundamentals of the C Programming Language, and make yourself more marketable for entry level programming positions.By the end of this course, you will understand the fundamentals of the C Programming Language, and make yourself more marketable for entry level programming positions.You will understand variables and the different data types, be able to utilize functions and arrays, understand the  concept of pointers, learn about control flow (decision statements and iteration).You will be in a position to apply for real-time programming positions, and truly understand the core language that most modern languages are based on!",
+      "author": {
+        "name": "Julia V.",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://img-c.udemycdn.com/user/200_H/151044292_164d.jpg"
+      }
+    },
+    {
+      "id": "44",
+      "category_id": "04",
+      "name": "TypeScript",
+      "title": "Understanding TypeScript - 2022 Edition",
+      "image_url": "https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png",
+      "details": "Join this bestselling, completely updated course to learn TypeScript from the ground up, in great depth!Learn what TypeScript is, why it really is a powerful addition to JavaScript, what its features are and how to use it! Learn why TypeScript is amazing, how it improves your JavaScript code and how it helps you avoid nasty bugs and errors!This course takes you from the very basics and its most important feature (types!) to the point where you're able to use TypeScript in any of your projects. ReactJS projects included!As TypeScript is developed by Microsoft and strongly advertised and used by Angular 2+ (Google) and other popular libraries, it's here to stay. Indeed, TypeScript is one of the most popular web development languages you can learn these days!Learn how you can use TypeScript to bring modern JS features like destructuring, arrow functions or classes to any environment and codebase - even if it does not support those features yet!  Understand which types you may use and how you can build your own types. Learn how to write better code with types and with the many features offered by TypeScript!",
+      "author": {
+        "name": "Abdullah F.",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://img-c.udemycdn.com/user/200_H/14798112_b64a.jpg"
+      }
+    },
+    {
+      "id": "55",
+      "category_id": "05",
+      "name": "Java",
+      "title": "Java Programming Masterclass covering Java 11 & Java 17",
+      "image_url": "https://cryptoshitcompra.com/wp-content/uploads/2022/01/1641263399_Master-Java-with-these-18-Online-Courses.png",
+      "details": "You have just stumbled upon the most complete, in-depth Java programming course online.This course is designed to give you the Java skills you need to get a job as a Java developer.  By the end of the course, you will understand Java extremely well and be able to build your own Java apps and be productive as a software developer.Lots of students have been successful in getting their first job or promotion after going through the course.Basics of Java Programming - Expressions, Variables, and Printing Output.Java Operators - Java Assignment Operator, Relational and Logical Operators, Short Circuit Operators.All the essential Java keywords, operators, statements, and expressions needed to fully understand exactly what you’re coding and why - making programming easy to grasp and less frustrating.",
+      "author": {
+        "name": "Rayan Slim",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://img-c.udemycdn.com/user/200_H/23181556_6c36_5.jpg"
+      }
+    },
+    {
+      "id": "66",
+      "category_id": "06",
+      "name": "HTML",
+      "title": "Build Responsive Real-World Websites with HTML and CSS",
+      "image_url": "https://html.com/wp-content/uploads/html-hpg-featured-new.png",
+      "details": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies like Flexbox and CSS Grid as well as the Sass pre-compiler. This course includes hours of both learning & studying sections along with real life projects. Stop having to rely on frameworks like Bootstrap for your user interface and learn how to create your own layouts and utility classes to build custom responsive websites and app UIs.The first few sections are tailored for beginners so even if you have never built anything before, you will learn all of the basics. If you already have experience with basic HTML & CSS, just move to section 3 or 4 and get started",
+      "author": {
+        "name": "Meet T.",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://img-c.udemycdn.com/user/200_H/119162036_c04e.jpg"
+      }
     }
 ]
